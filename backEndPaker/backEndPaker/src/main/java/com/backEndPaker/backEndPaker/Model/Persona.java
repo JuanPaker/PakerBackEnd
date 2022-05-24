@@ -19,6 +19,8 @@ public class Persona {
     private String nombre;
     private String apellido;
     private String img;
+    private String email;
+    private String contraseña;
 
 /*
     public void setNombre(String nuevoNombre) {
